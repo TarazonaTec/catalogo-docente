@@ -1,0 +1,30 @@
+[
+  
+  {
+    "nombre":"Cristo es Todo - Trivia Bíblica",
+    "descripcion":"Juego de trivia bíblica interactiva para aprender sobre personajes, historias y enseñanzas de la Biblia.",
+    "tipo":"Religión",
+    "url":"https://www.cristoestodo.org/juegos/trivia"
+  },
+  {
+    "nombre":"Cristo es Todo - Juego de Memoria Bíblica",
+    "descripcion":"Juego interactivo de memoria con temática bíblica para fortalecer el aprendizaje de personajes e historias de la Biblia.",
+    "tipo":"Religión",
+    "url":"https://www.cristoestodo.org/juegos/memoria"
+  },
+  {
+    "nombre":"Mobbyt - Juego Educativo",
+    "descripcion":"Videojuego educativo interactivo para aprender mediante dinámicas y actividades gamificadas.",
+    "tipo":"Educación",
+    "url":"https://mobbyt.com/videojuego/educativo/play.php?Id=173962"
+  },
+  
+  {
+    "nombre":"Proyecto Biblia - ¿Qué es la Biblia?",
+    "descripcion":"Video educativo animado que explica el origen, propósito e historia de la Biblia de forma visual y sencilla.",
+    "tipo":"Religión",
+    "url":"https://proyectobiblia.com/explore/video/what-is-bible/"
+  }
+
+
+]
